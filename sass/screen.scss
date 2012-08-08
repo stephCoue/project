@@ -1,0 +1,32 @@
+
+
+$color1 : #a6278f;
+
+html{
+	background-color: $color1;
+	
+}
+
+.wrap{
+	background-color: white;
+	margin: 0 auto;
+
+}
+
+nav{
+	width: 400px;
+	ul{
+		list-style: none;
+
+		li{
+			display: inline-block;
+			&>a{
+				display: block;
+				&:hover{
+					color: $color1;
+
+				}
+			}
+		}
+	}
+}
