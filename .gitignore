@@ -2,7 +2,8 @@
 .sass-cache
 temp
 test/*.txt
-!test/master.txt
 test/*
+!test/master.txt
+
 
 
