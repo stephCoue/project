@@ -3,6 +3,6 @@
 temp
 test/*.txt
 !test/master.txt
-test
+test/*
 
 
