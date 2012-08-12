@@ -7,4 +7,7 @@ comands.
 
 ### Git Essentials, from Tuts+ Premium
 
-add so√mething right here!!
+All rights reserved.
+
+
+
