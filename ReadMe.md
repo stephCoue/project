@@ -1,4 +1,4 @@
-# Git Essentials
+# Git Essentials (a Tuts+ Prenium Course)
 
 You are reading the README for this fake project.
 The only reason this project exits is to give
