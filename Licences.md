@@ -1,1 +1,4 @@
-This is the Licence for our project "DWTFYW"
+This is the Licence for our project 
+
+do wtfyw!
+

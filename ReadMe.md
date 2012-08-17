@@ -7,7 +7,8 @@ comands.
 
 ### Git Essentials, from Tuts+ Premium
 
-All rights reserved. August 2012
+© All rights reserved. August 2012
+
 
 
 
